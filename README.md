@@ -4,7 +4,7 @@
 
 **Technologies**: NodeJS, Javascript
 
-**Info**: This Repo contains fundamental NodeJS exercises such as
+**Info**: Questa repo contiene esercizi sui principi base di NodeJS. La maggior parte dei moduli sono stati estesi ed integrati nella repo [node_template](https://github.com/cyberfolk/node_template).
 
 ## Contenuto
 
